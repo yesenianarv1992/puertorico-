@@ -1,0 +1,14 @@
+body {
+    background-color: lightblue;
+}
+h1 {
+    color: red;
+}
+p {
+    color: darkblue;
+}
+img {
+ border-style: solid;
+ border-color: red;
+}
+ 
